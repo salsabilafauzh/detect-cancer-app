@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_1"
+        android:enabled="true"
+        android:icon="@drawable/ic_explore_24"
+        android:title="@string/text_icon_1"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/item_2"
+        android:enabled="true"
+        android:icon="@drawable/ic_history_24"
+        android:title="@string/text_icon_3"
+        app:showAsAction="ifRoom"
+        />
+</menu>

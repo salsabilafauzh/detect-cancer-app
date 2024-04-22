@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="my_light_primary">#8F4A50</color>
+    <color name="my_light_onPrimary">#FFFFFF</color>
+    <color name="my_light_secondary">#765658</color>
+    <color name="my_light_primary_container">#FFDADB</color>
+
+    <color name="my_light_on_primary_container">#3B0711</color>
+
+    <color name="my_dark_primary">#FFB2B8</color>
+    <color name="my_dark_onPrimary">#561D25</color>
+    <color name="my_dark_secondary">#E6BDBE</color>
+    <color name="my_dark_primary_container">#72333A</color>
+    <color name="my_dark_on_primary_container">#FFDADB</color>
+</resources>
